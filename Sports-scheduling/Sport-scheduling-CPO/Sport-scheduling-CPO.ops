@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cp">
+    <setting name="workers" value="2"/>
+    <setting name="timelimit" value="90.0"/>
+  </category>
+  <category name="cplex">
+    <setting name="threads" value="2"/>
+  </category>
+</settings>

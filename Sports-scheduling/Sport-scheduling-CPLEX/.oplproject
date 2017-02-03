@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="cloud">
+			<ref name="Sport-scheduling-CPLEX.mod" type="model">
+			</ref>
+			<ref name="Sport-scheduling-CPLEX.dat" type="data">
+			</ref>
+			<ref name="Sport-scheduling-CPLEX.ops" type="setting">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

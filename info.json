@@ -1,0 +1,9 @@
+{
+	"provider": ["IBM"],
+	"name":  "Decision Optimisation with OPL-CPO samples" ,
+	"model": [ "CPO", "OPL" ],
+	"development": [ "" ],
+	"category": [ "MODELING" ],
+	"industry": [ "Operational research" ],
+	"abstract": "OPL models, with different file types, for solution with CP Optimiser using DOcplexcloud."
+}
